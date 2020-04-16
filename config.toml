@@ -1,5 +1,5 @@
 # Site settings
-baseurl = "https://yogawithgabrielle.netlify.com/"
+baseurl = "https://yogawithgabs.netlify.com/"
 title = "Hugo Story Theme"
 paginate = 5
 buildFuture = true
@@ -10,14 +10,9 @@ buildFuture = true
   url = "https://github.com/xaprb/story/"
 
 [[menu.main]]
-  name = "Talks"
-  title = "Talks"
-  url = "/talks/"
-
-[[menu.main]]
-  name = "Slides"
-  title = "Slides"
-  url = "/slides/"
+  name = "About"
+  title = "About"
+  url = "/about/"
 
 [[menu.main]]
   name = "Archives"
