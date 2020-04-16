@@ -1,14 +1,15 @@
 ---
 title: Banff
-date: "2018-09-03"
+date: "2020-04-03"
 url: "/Banff/"
-description: "Story is a beautiful responsive Hugo blog theme with many extra features including presentations, math typesetting, and search."
-tldr: "Story is a beautiful responsive Hugo blog theme with powerful extra features out-of-the-box. It's targeted to people who want to showcase their technical work online."
+description: " "
 
-image: "img/gab_banff.png"
-thumbnail: img/gab_banff.png
+image: "img/gab_banff.jpg"
+thumbnail: img/gab_banff.jpg
 categories:
 - Demo
 ---
 
-Read next: [Story's features](/theme-features).
+KT is just testing out how to make posts link to each other :) 
+
+Read next: [Time in Aus](/aus).
