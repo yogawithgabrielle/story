@@ -11,4 +11,4 @@ categories:
 - Demo
 ---
 
-Read next: [Gabrielle's biography](/author-profiles/).
+Read next: [Gabrielle's biography](/about/).
