@@ -1,13 +1,13 @@
 # Site settings
 baseurl = "https://yogawithgabs.netlify.com/"
-title = "Hugo Story Theme"
+title = "Yoga With Gabrielle"
 paginate = 5
 buildFuture = true
 
 [[menu.social]]
-  name = "GitHub"
-  title = "fab fa-github-square"
-  url = "https://github.com/xaprb/story/"
+  name = "Instagram"
+  title = "fab fa-instagram"
+  url = "https://www.instagram.com/yogawithgabrielle/"
 
 [[menu.main]]
   name = "About"

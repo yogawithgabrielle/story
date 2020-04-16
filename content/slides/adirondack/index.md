@@ -1,6 +1,6 @@
 ---
-title: 'Creating Beautiful Presentations with Story'
-date: "2018-04-25T09:50:00-07:00"
+title: 'Slides'
+date: "2018-04-16T09:50:00-07:00"
 url: "slides/adirondack/"
 image: "slides/adirondack/leo-serrat-533922-unsplash.jpg"
 thumbnail: slides/adirondack/thumbnail.jpg
