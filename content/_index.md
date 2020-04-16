@@ -1,6 +1,6 @@
 ---
-title: Story Hugo Theme Demo Site
-subtitle: "Showcase Your Work"
+title: Yoga with Gabrielle
+subtitle: "Sat Nam"
 ---
 [![Gabrielle Davies](/img/gab_icon.png)](https://www.instagram.com/yogawithgabrielle/)
 
