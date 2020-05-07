@@ -25,8 +25,8 @@ buildFuture = true
   classes = []
 
 [outputs]
-  home = ["HTML", "JSON", "RSS"]
+  home = ["HTML", "JSON"]
   page = ["HTML"]
-  section = ["HTML", "RSS"]
-  taxonomy = ["HTML", "RSS"]
-  taxonomyTerm = ["HTML", "RSS"]
+  section = ["HTML"]
+  taxonomy = ["HTML"]
+  taxonomyTerm = ["HTML"]
